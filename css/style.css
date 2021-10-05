@@ -7,7 +7,19 @@ around my element
 All of these ADD on top of the width and height
 */
 h1{
+    color: rgb(7, 7, 90);
+}
+h2{
+    color:rgb(3, 75, 99);
+    font-size: 30px;
+    
+}
+p{
+    width: 500px;
+}
+ol{
     color: red;
+    width: 300px;
 }
 
 body{
