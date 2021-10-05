@@ -1,0 +1,37 @@
+/*The three parts of the css box model are
+Margin: empty space around my element
+Border: a border / stroke / around my element
+Padding: empty space around my element WITH background 
+around my element
+
+All of these ADD on top of the width and height
+*/
+h1{
+    color: red;
+}
+
+body{
+    background-color:white;
+    color:black;
+    font-size: 15px;
+}
+
+.subheading{
+    background: yellow;
+    width: 300px;
+   
+}
+.paragraph{
+    color:purple;
+}
+.intro{
+    font-weight: bold;
+}
+span{
+    color:black;
+    font-size: 15px;
+    font-weight:bold;
+}
+.highlight{
+    background:yellow;
+}
