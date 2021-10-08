@@ -7,7 +7,11 @@ around my element
 All of these ADD on top of the width and height
 */
 h1{
-    color: rgb(7, 7, 90);
+    background-image: url(../img/header.jpeg);
+    background-repeat: repeat-x;
+    color: whitesmoke;
+    padding: 50px;
+    padding-left: 275px;
 }
 h2{
     color:rgb(3, 75, 99);
@@ -15,32 +19,24 @@ h2{
     
 }
 p{
-    width: 500px;
+    width: 700px;
+    font-family:Arial, Helvetica, sans-serif;
 }
 ol{
-    color: red;
-    width: 300px;
+    font-weight: bold;
+    width: 500px;
 }
 
 body{
-    background-color:white;
+    background-color:lightgray;
     color:black;
     font-size: 15px;
 }
 
-.subheading{
-    background: yellow;
-    width: 300px;
-   
-}
-.paragraph{
-    color:purple;
-}
-.intro{
-    font-weight: bold;
-}
+
+
 span{
-    color:black;
+    color:royalblue;
     font-size: 15px;
     font-weight:bold;
 }
